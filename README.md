@@ -205,3 +205,6 @@ PriMus-DCF is offered as a complete free version with all features and updates i
 ---
 
 Ready to take control of your project management? **Download PriMus-DCF now and experience the difference!**
+
+---
+**Last updated:** 2026-09-15 12:58:57 UTC
